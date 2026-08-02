@@ -1,3 +1,11 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/deept1812/Leetcode?style=flat-square)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/deept1812/Leetcode?style=flat-square)
+
+![GitHub stars](https://img.shields.io/github/stars/deept1812/Leetcode?style=flat-square)
+
+![GitHub forks](https://img.shields.io/github/forks/deept1812/Leetcode?style=flat-square)
+
 <h1 align="center">🚀 LeetCode Java Solutions</h1>
 
 <p align="center">
